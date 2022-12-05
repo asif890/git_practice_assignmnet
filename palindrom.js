@@ -1,0 +1,1 @@
+//Check Whether the string is palindrom or not.
