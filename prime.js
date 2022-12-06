@@ -1,1 +1,0 @@
-//Find the Number is prime or not.

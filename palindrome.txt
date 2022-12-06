@@ -1,0 +1,9 @@
+let str="janvi";
+for (let a =str.length-1;a>=0;a--){
+  bag =bag+str[a]
+      } 
+      if (str==bag){
+        console.log("Yes")
+   }else {
+       
+   }
